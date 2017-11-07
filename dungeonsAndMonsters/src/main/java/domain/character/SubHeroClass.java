@@ -1,4 +1,4 @@
 package domain.character;
 
-public class SubClass {
+public class SubHeroClass {
 }

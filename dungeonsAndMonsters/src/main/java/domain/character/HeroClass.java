@@ -1,9 +1,9 @@
 package domain.character;
 
-public class Class {
+public class HeroClass {
 
     private String name;
     private int hitDie;
-    private SubClass subClass;
+    private SubHeroClass subHeroClass;
 
 }
