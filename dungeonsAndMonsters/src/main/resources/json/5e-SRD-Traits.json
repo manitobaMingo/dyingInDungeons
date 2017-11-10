@@ -1,6 +1,6 @@
 [
 	{
-		"index": 1,
+		"id": 1,
 		"name": "Hill Dwarf",
 		"race": {
 			"url": "http://www.dnd5eapi.co/api/races/1",
@@ -33,7 +33,7 @@
 		"url": "http://www.dnd5eapi.co/api/subraces/1"
 	},
 	{
-		"index": 2,
+		"id": 2,
 		"name": "High Elf",
 		"race": {
 			"url": "http://www.dnd5eapi.co/api/races/2",
@@ -192,7 +192,7 @@
 		"url": "http://www.dnd5eapi.co/api/subraces/2"
 	},
 	{
-		"index": 3,
+		"id": 3,
 		"name": "Lightfoot Halfling",
 		"race": {
 			"url": "http://www.dnd5eapi.co/api/races/3",
@@ -225,7 +225,7 @@
 		"url": "http://www.dnd5eapi.co/api/subraces/3"
 	},
 	{
-		"index": 4,
+		"id": 4,
 		"name": "Mountain Dwarf",
 		"race": {
 			"url": "http://www.dnd5eapi.co/api/races/1",
@@ -260,7 +260,7 @@
 		"url": "http://www.dnd5eapi.co/api/subraces/4"
 	},
 	{
-		"index": 5,
+		"id": 5,
 		"name": "Wood Elf",
 		"race": {
 			"url": "http://www.dnd5eapi.co/api/races/2",
@@ -312,7 +312,7 @@
 		"url": "http://www.dnd5eapi.co/api/subraces/5"
 	},
 	{
-		"index": 6,
+		"id": 6,
 		"name": "Dark Elf (Drow)",
 		"race": {
 			"url": "http://www.dnd5eapi.co/api/races/2",

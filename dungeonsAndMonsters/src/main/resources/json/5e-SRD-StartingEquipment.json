@@ -1,5 +1,5 @@
 [{
-	"index": 1,
+	"id": 1,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/1",
 		"name": "Barbarian"
@@ -62,7 +62,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/1"
 }, {
-	"index": 2,
+	"id": 2,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/2",
 		"name": "Bard"
@@ -133,7 +133,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/2"
 }, {
-	"index": 3,
+	"id": 3,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/3",
 		"name": "Cleric"
@@ -223,7 +223,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/3"
 }, {
-	"index": 4,
+	"id": 4,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/4",
 		"name": "Druid"
@@ -287,7 +287,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/4"
 }, {
-	"index": 5,
+	"id": 5,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/5",
 		"name": "Fighter"
@@ -393,7 +393,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/5"
 }, {
-	"index": 6,
+	"id": 6,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/6",
 		"name": "Monk"
@@ -438,7 +438,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/6"
 }, {
-	"index": 7,
+	"id": 7,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/7",
 		"name": "Paladin"
@@ -552,7 +552,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/7"
 }, {
-	"index": 8,
+	"id": 8,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/8",
 		"name": "Ranger"
@@ -605,7 +605,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/8"
 }, {
-	"index": 9,
+	"id": 9,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/9",
 		"name": "Rogue"
@@ -656,7 +656,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/9"
 }, {
-	"index": 10,
+	"id": 10,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/10",
 		"name": "Sorcerer"
@@ -717,7 +717,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/10"
 }, {
-	"index": 11,
+	"id": 11,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/11",
 		"name": "Warlock"
@@ -798,7 +798,7 @@
 	}],
 	"url": "http://www.dnd5eapi.co/api/startingequipment/11"
 }, {
-	"index": 12,
+	"id": 12,
 	"class": {
 		"url": "http://www.dnd5eapi.co/api/classes/12",
 		"name": "Wizard"
